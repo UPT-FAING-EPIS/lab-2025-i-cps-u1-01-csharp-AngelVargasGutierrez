@@ -1,8 +1,8 @@
 name: Sonar Continuous Integration and NuGet Publishing
 env:
   DOTNET_VERSION: '8.0'                     # la versión de .NET
-  SONAR_ORG: 'gregobhm'                    # Nombre de la organización de sonar cloud
-  SONAR_PROJECT: 'gregobhm_apibank'        # Key ID del proyecto de sonar
+  SONAR_ORG: 'angelvargasgutierrez'                    # Nombre de la organización de sonar cloud
+  SONAR_PROJECT: 'angelvargasgutierrez_apibank'        # Key ID del proyecto de sonar
 on:
   push:
     branches: [ "main" ] #
