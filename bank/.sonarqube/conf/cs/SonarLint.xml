@@ -28,6 +28,12 @@
   </Settings>
   <Rules>
     <Rule>
+      <Key>S2737</Key>
+    </Rule>
+    <Rule>
+      <Key>S2115</Key>
+    </Rule>
+    <Rule>
       <Key>S2259</Key>
     </Rule>
     <Rule>
@@ -63,9 +69,6 @@
     </Rule>
     <Rule>
       <Key>S1133</Key>
-    </Rule>
-    <Rule>
-      <Key>S2115</Key>
     </Rule>
     <Rule>
       <Key>S2245</Key>
@@ -731,9 +734,6 @@
     </Rule>
     <Rule>
       <Key>S2971</Key>
-    </Rule>
-    <Rule>
-      <Key>S2737</Key>
     </Rule>
     <Rule>
       <Key>S2612</Key>

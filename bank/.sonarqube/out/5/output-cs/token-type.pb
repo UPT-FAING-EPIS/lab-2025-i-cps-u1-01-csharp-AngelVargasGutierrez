@@ -1,5 +1,5 @@
-ì
-lC:\Users\HP\Desktop\CALIDAD\lab-2025-i-cps-u1-01-csharp-GregoBHM\Bank\Bank.Domain.Tests\BanckAccountTests.cs
+‡
+†C:\Users\lenovo\Desktop\CALIDAD Y PRUEBAS\lab-2025-i-cps-u1-01-csharp-AngelVargasGutierrez\Bank\Bank.Domain.Tests\BanckAccountTests.cs
  
  
  	 

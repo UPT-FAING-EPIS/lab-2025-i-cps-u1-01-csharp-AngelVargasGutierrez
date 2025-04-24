@@ -1,1 +1,1 @@
-†RpC:\Users\HP\Desktop\CALIDAD\lab-2025-i-cps-u1-01-csharp-GregoBHM\Bank\Bank.Domain.Tests\Bank.Domain.Tests.csproj¢net8.0òCSharp12
+¡RŠC:\Users\lenovo\Desktop\CALIDAD Y PRUEBAS\lab-2025-i-cps-u1-01-csharp-AngelVargasGutierrez\Bank\Bank.Domain.Tests\Bank.Domain.Tests.csproj¢net8.0òCSharp12

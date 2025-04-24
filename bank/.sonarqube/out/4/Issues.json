@@ -6,9 +6,9 @@
       "tool": {
         "name": "Compilador de Microsoft (R) Visual C#",
         "version": "4.11.0.0",
-        "fileVersion": "4.11.0-3.24365.8 (9e9c7c1d)",
+        "fileVersion": "4.11.0-3.24554.2 (bc1c3011)",
         "semanticVersion": "4.11.0",
-        "language": "es-MX"
+        "language": "es-ES"
       },
       "results": [
         {
@@ -18,28 +18,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/HP/Desktop/CALIDAD/lab-2025-i-cps-u1-01-csharp-GregoBHM/Bank/Bank.Domain/Models/BankAccount.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 65,
-                  "endLine": 24,
-                  "endColumn": 79
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3236",
-          "level": "warning",
-          "message": "Remove this argument from the method call; it hides the caller information.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/HP/Desktop/CALIDAD/lab-2025-i-cps-u1-01-csharp-GregoBHM/Bank/Bank.Domain/Models/BankAccount.cs",
+                "uri": "file:///C:/Users/lenovo/Desktop/CALIDAD%20Y%20PRUEBAS/lab-2025-i-cps-u1-01-csharp-AngelVargasGutierrez/Bank/Bank.Domain/Models/BankAccount.cs",
                 "region": {
                   "startLine": 17,
                   "startColumn": 79,
@@ -60,11 +39,32 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/HP/Desktop/CALIDAD/lab-2025-i-cps-u1-01-csharp-GregoBHM/Bank/Bank.Domain/Models/BankAccount.cs",
+                "uri": "file:///C:/Users/lenovo/Desktop/CALIDAD%20Y%20PRUEBAS/lab-2025-i-cps-u1-01-csharp-AngelVargasGutierrez/Bank/Bank.Domain/Models/BankAccount.cs",
                 "region": {
                   "startLine": 18,
                   "startColumn": 65,
                   "endLine": 18,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3236",
+          "level": "warning",
+          "message": "Remove this argument from the method call; it hides the caller information.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/lenovo/Desktop/CALIDAD%20Y%20PRUEBAS/lab-2025-i-cps-u1-01-csharp-AngelVargasGutierrez/Bank/Bank.Domain/Models/BankAccount.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 65,
+                  "endLine": 24,
                   "endColumn": 79
                 }
               }

@@ -1,11 +1,11 @@
-﻿C:\Users\HP\Desktop\CALIDAD\lab-2025-i-cps-u1-01-csharp-GregoBHM\Bank\Bank.Domain.Tests\BanckAccountTests.cs
-C:\Users\HP\.nuget\packages\microsoft.net.test.sdk\17.13.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
-C:\Users\HP\.nuget\packages\microsoft.testplatform.testhost\17.13.0\build\netcoreapp3.1\x64\testhost.exe
-C:\Users\HP\.nuget\packages\microsoft.testplatform.testhost\17.13.0\build\netcoreapp3.1\x64\testhost.dll
-C:\Users\HP\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\NUnit3.TestAdapter.dll
-C:\Users\HP\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\NUnit3.TestAdapter.pdb
-C:\Users\HP\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\nunit.engine.dll
-C:\Users\HP\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\nunit.engine.api.dll
-C:\Users\HP\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\nunit.engine.core.dll
-C:\Users\HP\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\testcentric.engine.metadata.dll
-C:\Users\HP\Desktop\CALIDAD\lab-2025-i-cps-u1-01-csharp-GregoBHM\Bank\Bank.Domain.Tests\TestResults\0d044cbc-6b12-4170-96e8-13a07d7d6d99\coverage.cobertura.xml
+﻿C:\Users\lenovo\Desktop\CALIDAD Y PRUEBAS\lab-2025-i-cps-u1-01-csharp-AngelVargasGutierrez\Bank\Bank.Domain.Tests\BanckAccountTests.cs
+C:\Users\lenovo\.nuget\packages\microsoft.net.test.sdk\17.13.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\lenovo\.nuget\packages\microsoft.testplatform.testhost\17.13.0\build\netcoreapp3.1\x64\testhost.exe
+C:\Users\lenovo\.nuget\packages\microsoft.testplatform.testhost\17.13.0\build\netcoreapp3.1\x64\testhost.dll
+C:\Users\lenovo\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\lenovo\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\lenovo\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\nunit.engine.dll
+C:\Users\lenovo\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\lenovo\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\lenovo\.nuget\packages\nunit3testadapter\4.3.2\build\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\lenovo\Desktop\CALIDAD Y PRUEBAS\lab-2025-i-cps-u1-01-csharp-AngelVargasGutierrez\Bank\Bank.Domain.Tests\TestResults\b4ac8718-8833-4ab8-a221-52d2d056deeb\coverage.cobertura.xml
